@@ -46,7 +46,7 @@ The easy way is the [Chrome Web Store](https://chromewebstore.google.com/detail/
 To run it from source:
 
 ```bash
-git clone https://github.com/gopikishan09/job-sniper-extension.git
+git clone https://github.com/gopikishan-dev/job-sniper-extension.git
 ```
 
 1. Go to `chrome://extensions` and turn on **Developer mode**.
